@@ -1,0 +1,42 @@
+{
+	"clusters": [{
+			"id": 1,
+			"name/keywords": "up to ten words, keywords, see below",
+			"news": [{
+					"title": "title of news 1",
+					"link": "link of news 1",
+					"content": "content of news 1"
+				},
+				{
+					"title": "title of news 2",
+					"link": "link of news 2",
+					"content": "content of news 2"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name/keywords": "elections, Czechia, new president, voting, majority",
+			"news": [{
+					"title": "title of news 3",
+					"link": "link of news 3",
+					"content": "content of news 3"
+				},
+				{
+					"title": "title of news 5",
+					"link": "link of news 5",
+					"content": "content of news 5"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name/keywords": "sports, olympics winner, swimming, gold medal, John Doe",
+			"news": [{
+				"title": "title of news 4",
+				"link": "link of news 4",
+				"content": "content of news 4"
+			}]
+		}
+	]
+}
